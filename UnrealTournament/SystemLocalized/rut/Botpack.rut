@@ -29,13 +29,13 @@ Object=(Name=BotPack.TBoss,Class=Class,MetaClass=Botpack.TournamentPlayer,Descri
 ; EN: Object=(Name=BotPack.TBossBot,Class=Class,MetaClass=BotPack.Bot,Description="Boss")
 Object=(Name=BotPack.TBossBot,Class=Class,MetaClass=BotPack.Bot,Description="Босс")
 ; EN: Object=(Name=BotPack.VoiceMaleOne,Class=Class,MetaClass=BotPack.VoiceMale,Description="Male One")
-Object=(Name=BotPack.VoiceMaleOne,Class=Class,MetaClass=BotPack.VoiceMale,Description="Мужчина 1")
+Object=(Name=BotPack.VoiceMaleOne,Class=Class,MetaClass=BotPack.VoiceMale,Description="Мужской-1")
 ; EN: Object=(Name=BotPack.VoiceFemaleOne,Class=Class,MetaClass=BotPack.VoiceFemale,Description="Female One")
-Object=(Name=BotPack.VoiceFemaleOne,Class=Class,MetaClass=BotPack.VoiceFemale,Description="Женщина 1")
+Object=(Name=BotPack.VoiceFemaleOne,Class=Class,MetaClass=BotPack.VoiceFemale,Description="Женский-1")
 ; EN: Object=(Name=BotPack.VoiceMaleTwo,Class=Class,MetaClass=BotPack.VoiceMale,Description="Male Two")
-Object=(Name=BotPack.VoiceMaleTwo,Class=Class,MetaClass=BotPack.VoiceMale,Description="Мужчина 2")
+Object=(Name=BotPack.VoiceMaleTwo,Class=Class,MetaClass=BotPack.VoiceMale,Description="Мужской-2")
 ; EN: Object=(Name=BotPack.VoiceFemaleTwo,Class=Class,MetaClass=BotPack.VoiceFemale,Description="Female Two")
-Object=(Name=BotPack.VoiceFemaleTwo,Class=Class,MetaClass=BotPack.VoiceFemale,Description="Женщина 2")
+Object=(Name=BotPack.VoiceFemaleTwo,Class=Class,MetaClass=BotPack.VoiceFemale,Description="Женский-2")
 ; EN: Object=(Name=BotPack.VoiceBoss,Class=Class,MetaClass=BotPack.VoiceBoss,Description="Robot")
 Object=(Name=BotPack.VoiceBoss,Class=Class,MetaClass=BotPack.VoiceBoss,Description="Робот")
 ; Weapons
@@ -1987,7 +1987,7 @@ ExpireMessage="Антигравитационные боты разрядили�
 ; EN: PickupMessage="You picked up the AntiGrav boots."
 PickupMessage="Вы взяли Антигравитационные боты."
 ; EN: ItemName="AntiGrav Boots"
-ItemName="Антигравитационные Боты"
+ItemName="Антигравитационные боты"
 
 [VoiceFemaleTwo]
 ; Note: Translated lines and their lengths MUST be synced with their respective lines from Female2Voice.uax_rut! Also use the Abbrev fields if the respective item String doesn't fit in the Voice Orders menu. For example, if TauntString="Anyone else want some?", then TauntAbbrev could be TauntAbbrev="Anyone else?". I'll leave that criteria to you. - N_K
