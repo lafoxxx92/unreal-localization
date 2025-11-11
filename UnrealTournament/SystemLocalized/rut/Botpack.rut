@@ -734,7 +734,7 @@ TeamName[3]="Золотая команда"
 ; EN: OrdersString="Orders:"
 OrdersString="Приказы:"
 ; EN: InString="Location:"
-InString="Место:"
+InString="Местоположение:"
 ; EN: PlayersNotShown="Player[s] not shown."
 PlayersNotShown="Игрок[и] не показан[ы]."
 
