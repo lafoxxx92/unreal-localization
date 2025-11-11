@@ -2282,7 +2282,7 @@ BotBio[7]="Грааль - самый образованный член Леги�
 
 [SuperShockRifle]
 ; EN: DeathMessage="%k electrified %o with the %w."
-DeathMessage="%o получает заряд бодрости через %w %o."
+DeathMessage="%o получает заряд бодрости через %w %k."
 ; EN: PickupMessage="You got the enhanced Shock Rifle."
 PickupMessage="Вы взяли улучшенное Шок-ружьё."
 ; EN: ItemName="Enhanced Shock Rifle"
